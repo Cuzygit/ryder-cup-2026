@@ -1,0 +1,6 @@
+package.json
+next.config.js
+tsconfig.json
+next-env.d.ts
+app/
+lib/
